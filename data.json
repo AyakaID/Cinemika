@@ -1,30 +1,170 @@
 {
-  "shows": [
-    { "date": "2026-02-05", "display": "5 Feb 2026", "day": "Kamis", "title": "Pertaruhan Cinta", "time": "19:00" },
-    { "date": "2026-02-06", "display": "6 Feb 2026", "day": "Jumat", "title": "Cara Meminum Ramune", "time": "19:00" },
-    { "date": "2026-02-07", "display": "7 Feb 2026", "day": "Sabtu", "title": "Sambil Menggandeng Erat Tanganku", "time": "16:00" },
-    { "date": "2026-02-08", "display": "8 Feb 2026", "day": "Minggu", "title": "Cara Meminum Ramune", "time": "16:00" },
-    { "date": "2026-02-12", "display": "12 Feb 2026", "day": "Kamis", "title": "Sambil Menggandeng Erat Tanganku", "time": "19:00" },
-    { "date": "2026-02-13", "display": "13 Feb 2026", "day": "Jumat", "title": "Pertaruhan Cinta", "time": "19:00" },
-    { "date": "2026-02-14", "display": "14 Feb 2026", "day": "Sabtu", "title": "Sambil Menggandeng Erat Tanganku", "time": "16:00" },
-    { "date": "2026-02-15", "display": "15 Feb 2026", "day": "Minggu", "title": "Pertaruhan Cinta", "time": "16:00" },
-    { "date": "2026-02-16", "display": "16 Feb 2026", "day": "Senin", "title": "Cara Meminum Ramune", "time": "19:00" }
+  "jadwal_show": [
+    {
+      "tanggal": "Senin,\n16.2.2026\nShow 19:00\nPenukaran tiket 18:00",
+      "show": "Cara Meminum Ramune",
+      "tiket_ofc": "TBA",
+      "tiket_general": "TBA",
+      "tipe": "regular"
+    },
+    {
+      "tanggal": "Minggu,\n15.2.2026\nShow 16:00\nPenukaran tiket 15:00",
+      "show": "Pertaruhan Cinta",
+      "tiket_ofc": "TBA",
+      "tiket_general": "TBA",
+      "tipe": "regular"
+    },
+    {
+      "tanggal": "Sabtu,\n14.2.2026\nShow 16:00\nPenukaran tiket 15:00",
+      "show": "Sambil Menggandeng Erat Tanganku",
+      "tiket_ofc": "TBA",
+      "tiket_general": "TBA",
+      "tipe": "regular"
+    },
+    {
+      "tanggal": "Jumat,\n13.2.2026\nShow 19:00\nPenukaran tiket 18:00",
+      "show": "Pertaruhan Cinta",
+      "tiket_ofc": "TBA",
+      "tiket_general": "TBA",
+      "tipe": "regular"
+    },
+    {
+      "tanggal": "Kamis,\n12.2.2026\nShow 19:00\nPenukaran tiket 18:00",
+      "show": "Sambil Menggandeng Erat Tanganku",
+      "tiket_ofc": "TBA",
+      "tiket_general": "TBA",
+      "tipe": "regular"
+    },
+    {
+      "tanggal": "Minggu,\n8.2.2026\nShow 16:00\nPenukaran tiket 15:00",
+      "show": "Cara Meminum Ramune",
+      "tiket_ofc": "TBA",
+      "tiket_general": "TBA",
+      "tipe": "regular"
+    },
+    {
+      "tanggal": "Sabtu,\n7.2.2026\nShow 16:00\nPenukaran tiket 15:00",
+      "show": "Sambil Menggandeng Erat Tanganku",
+      "tiket_ofc": "TBA",
+      "tiket_general": "TBA",
+      "tipe": "regular"
+    },
+    {
+      "tanggal": "Jumat,\n6.2.2026\nShow 19:00\nPenukaran tiket 18:00",
+      "show": "Cara Meminum Ramune",
+      "tiket_ofc": "TBA",
+      "tiket_general": "TBA",
+      "tipe": "regular"
+    },
+    {
+      "tanggal": "Kamis,\n5.2.2026\nShow 19:00\nPenukaran tiket 18:00",
+      "show": "Pertaruhan Cinta",
+      "tiket_ofc": "TBA",
+      "tiket_general": "TBA",
+      "tipe": "regular"
+    },
+    {
+      "tanggal": "Senin, 16.2.2026\nShow 19:00",
+      "show": "Cara Meminum Ramune",
+      "tiket_ofc": "TBA",
+      "tiket_general": "TBA",
+      "tipe": "regular"
+    },
+    {
+      "tanggal": "Minggu, 15.2.2026\nShow 16:00",
+      "show": "Pertaruhan Cinta",
+      "tiket_ofc": "TBA",
+      "tiket_general": "TBA",
+      "tipe": "regular"
+    },
+    {
+      "tanggal": "Sabtu, 14.2.2026\nShow 16:00",
+      "show": "Sambil Menggandeng Erat Tanganku",
+      "tiket_ofc": "TBA",
+      "tiket_general": "TBA",
+      "tipe": "regular"
+    },
+    {
+      "tanggal": "Jumat, 13.2.2026\nShow 19:00",
+      "show": "Pertaruhan Cinta",
+      "tiket_ofc": "TBA",
+      "tiket_general": "TBA",
+      "tipe": "regular"
+    },
+    {
+      "tanggal": "Kamis, 12.2.2026\nShow 19:00",
+      "show": "Sambil Menggandeng Erat Tanganku",
+      "tiket_ofc": "TBA",
+      "tiket_general": "TBA",
+      "tipe": "regular"
+    },
+    {
+      "tanggal": "Minggu, 8.2.2026\nShow 16:00",
+      "show": "Cara Meminum Ramune",
+      "tiket_ofc": "TBA",
+      "tiket_general": "TBA",
+      "tipe": "regular"
+    },
+    {
+      "tanggal": "Sabtu, 7.2.2026\nShow 16:00",
+      "show": "Sambil Menggandeng Erat Tanganku",
+      "tiket_ofc": "TBA",
+      "tiket_general": "TBA",
+      "tipe": "regular"
+    },
+    {
+      "tanggal": "Jumat, 6.2.2026\nShow 19:00",
+      "show": "Cara Meminum Ramune",
+      "tiket_ofc": "TBA",
+      "tiket_general": "TBA",
+      "tipe": "regular"
+    },
+    {
+      "tanggal": "Kamis, 5.2.2026\nShow 19:00",
+      "show": "Pertaruhan Cinta",
+      "tiket_ofc": "TBA",
+      "tiket_general": "TBA",
+      "tipe": "regular"
+    }
   ],
-  "events": [
-    { "date": "2026-02-07", "display": "7 Feb 2026", "day": "Sabtu", "title": "AIEROFEST 2026", "location": "Venue Aiero" }
+  "video_call": [
+    {
+      "member": "Mikaela Kusjanto",
+      "tanggal": "Minggu, 8.2.2026",
+      "jalur_sesi": "Sesi 4 (Jalur 4)",
+      "waktu": "16:15 - 17:30 WIB"
+    },
+    {
+      "member": "Mikaela Kusjanto",
+      "tanggal": "Minggu, 8.2.2026",
+      "jalur_sesi": "Sesi 5 (Jalur 4)",
+      "waktu": "17:45 - 19:00 WIB"
+    },
+    {
+      "member": "Mikaela Kusjanto",
+      "tanggal": "Minggu, 8.2.2026",
+      "jalur_sesi": "Sesi 6 (Jalur 4)",
+      "waktu": "19:15 - 20:30 WIB"
+    },
+    {
+      "member": "Mikaela Kusjanto",
+      "tanggal": "Rabu, 25.2.2026",
+      "jalur_sesi": "Sesi 1 (Jalur 2)",
+      "waktu": "15:15 - 16:15 WIB"
+    },
+    {
+      "member": "Mikaela Kusjanto",
+      "tanggal": "Rabu, 25.2.2026",
+      "jalur_sesi": "Sesi 2 (Jalur 2)",
+      "waktu": "16:45 - 17:45 WIB"
+    },
+    {
+      "member": "Mikaela Kusjanto",
+      "tanggal": "Rabu, 25.2.2026",
+      "jalur_sesi": "Sesi 3 (Jalur 2)",
+      "waktu": "19:00 - 20:00 WIB"
+    }
   ],
-  "vc_sessions": [
-    { "member": "Mikaela Kusjanto", "date": "2026-02-08", "day": "Minggu", "jalur": 4, "sesi": 1, "time": "16:30 - 17:30" },
-    { "member": "Mikaela Kusjanto", "date": "2026-02-08", "day": "Minggu", "jalur": 4, "sesi": 2, "time": "18:00 - 19:00" },
-    { "member": "Mikaela Kusjanto", "date": "2026-02-08", "day": "Minggu", "jalur": 4, "sesi": 3, "time": "19:30 - 20:30" },
-    { "member": "Mikaela Kusjanto", "date": "2026-02-25", "day": "Rabu", "jalur": 2, "sesi": 1, "time": "15:15 - 16:15" },
-    { "member": "Mikaela Kusjanto", "date": "2026-02-25", "day": "Rabu", "jalur": 2, "sesi": 2, "time": "16:45 - 17:45" },
-    { "member": "Mikaela Kusjanto", "date": "2026-02-25", "day": "Rabu", "jalur": 2, "sesi": 3, "time": "19:00 - 20:00" }
-  ],
-  "gallery": [
-    "images/mikaela1.jpg",
-    "images/mikaela2.jpg",
-    "images/mikaela3.jpg"
-  ]
+  "event_jkt48": [],
+  "galeri_foto": []
 }
-
