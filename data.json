@@ -166,5 +166,9 @@
     }
   ],
   "event_jkt48": [],
-  "galeri_foto": []
+  "galeri_foto": [
+    { "url": "images/mikaela1.jpg", "caption": "Mikaela Instagram" },
+    { "url": "images/mikaela2.jpg", "caption": "Mikaela Instagram" },
+    { "url": "images/mikaela3.jpg", "caption": "Mikaela X" }
+  ]
 }
