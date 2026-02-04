@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cinemika</title>
+    <link rel="stylesheet" href="Cinemika.css">
+</head>
+<body>
+    <header style="background-image: url('images/kaelaonscreenheader.jpg'); background-size: cover; background-position: center;">
+        <div class="header-content">
+            <div class="header-logo">
+                <img src="images/kaelaonscreen.jpg" alt="Cinemika Logo" class="cinemika-logo">
+            </div>
+            <h1 class="header-title">Cinemika</h1>
+            <p class="header-subtitle">Official Mikaela Fanbase</p>
+            <div class="header-animation"></div>
+        </div>
+    </header>
+
+    <nav>
+        <a href="#beranda">Beranda</a>
+        <a href="#tentang">Tentang</a>
+        <a href="#jadwal">Jadwal</a>
+        <a href="#galeri">Galeri</a>
+        <a href="#kontak">Kontak</a>
+    </nav>
+
+    <div class="container">
+        <section class="section" id="beranda">
+            <h2>Selamat Datang</h2>
+            <p>Selamat datang di komunitas fanbase <span class="accent">Mikaela Kusjanto (JKT48)</span> — tempat berkumpulnya penggemar untuk berdiskusi, berbagi berita, dan menonton konten bersama. Temukan profil, kegiatan, dan update terbaru seputar Mikaela di sini.</p>
+            
+            <section class="biodata-section">
+                <h3>Biodata Mikaela Kusjanto</h3>
+                <div class="tagline-mikaela">
+                    <p>"Camera... Roll... Action! Sutradara yang akan mewarnai kisah hidupmu dengan penuh warna. Hai semuanya Aku Mikaela!"</p>
+                </div>
+                <div class="biodata-content">
+                    <img src="images/Mikaela_Kusjanto.jpg" alt="Mikaela Kusjanto" class="profile-photo">
+                    <div class="biodata-info">
+                        <p><strong>Nama:</strong> Mikaela Kusjanto</p>
+                        <p><strong>Nama Panggilan:</strong> Mikaela, Mika, Kaela, Kus, Cicito, Nenek (menurut Sifa)</p>
+                        <p><strong>Tanggal Lahir:</strong> 15 Desember 2007 (18 tahun)</p>
+                        <p><strong>Golongan Darah:</strong> O</p>
+                        <p><strong>Zodiak:</strong> Sagittarius</p>
+                        <p><strong>Tinggi Badan:</strong> 166 cm</p>
+                        <p><strong>Occupation:</strong> Singer, Idol</p>
+                        <p><strong>Agensi:</strong> PT. Indonesia Musik Nusantara</p>
+                        <p><strong>Group:</strong> JKT48</p>
+                        <p><strong>Team:</strong> Trainee</p>
+                        <p><strong>Status Member:</strong> Aktif (Generasi 13)</p>
+                        <p><strong>Bergabung dengan JKT48:</strong> 2024</p>
+                        <p><strong>Deskripsi:</strong> Mikaela adalah anggota JKT48 Generasi 13 yang berbakat dengan suara yang indah. Dia dikenal karena dedikasinya terhadap grup dan hubungan yang baik dengan sesama anggota.</p>
+                    </div>
+                </div>
+            </section>
+        </section>
+
+        <section class="section" id="tentang">
+            <h2>Tentang Kami</h2>
+            <div class="about-content">
+                <p>Kami adalah fanbase yang didedikasikan untuk <span class="accent">Mikaela Kusjanto</span>, anggota JKT48 Generasi 13. Komunitas Cinemika adalah tempat berkumpul para penggemar setia Mikaela untuk berbagi kecintaan, pengalaman, dan dukungan.</p>
+                <div class="about-cards">
+                    <div class="about-card">
+                        <h4>📝 Informasi Member Baru</h4>
+                        <p>Tertarik bergabung dengan komunitas Cinemika? Daftarkan diri Anda dan menjadi bagian dari keluarga besar penggemar Mikaela. Dapatkan akses eksklusif ke konten, diskusi, dan acara komunitas.</p>
+                        <button class="btn-member-closed" disabled>
+                            <span class="btn-status">PENDAFTARAN DITUTUP</span>
+                            <span class="btn-text">Member Form Closed</span>
+                        </button>
+                    </div>
+                    <div class="about-card">
+                        <h4>🎯 Syarat & Ketentuan Member</h4>
+                        <ul class="member-terms">
+                            <li>Aktif mendukung Mikaela Kusjanto</li>
+                            <li>Saling menghormati antar member</li>
+                            <li>Menjaga etika dan norma komunitas</li>
+                            <li>Mengikuti peraturan yang telah ditetapkan</li>
+                        </ul>
+                    </div>
+                    <div class="about-card">
+                        <h4>💬 Manfaat Member</h4>
+                        <ul class="member-benefits">
+                            <li>✨ Akses grup diskusi eksklusif</li>
+                            <li>🤝 Networking dengan penggemar lain</li>
+                            <li>📸 Sharing foto & pengalaman</li>
+                            <li>🎉 Undangan acara komunitas</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="section" id="jadwal">
+            <h2>Jadwal & Event</h2>
+            <div class="section-inner">
+                <h3>Jadwal Show JKT48 Theater (Terupdate)</h3>
+                <ul id="show-schedule" class="schedule">
+                    <!-- Diisi dari mikaela_schedule.json -->
+                </ul>
+
+                <h3>Event JKT48</h3>
+                <ul id="event-schedule" class="schedule">
+                    <!-- Diisi dari mikaela_schedule.json -->
+                </ul>
+
+                <h3>Jadwal Video Call Mikaela</h3>
+                <table class="vc-schedule" id="vc-table">
+                    <thead>
+                        <tr><th>Member</th><th>Tanggal</th><th>Jalur & Sesi</th><th>Waktu (WIB)</th></tr>
+                    </thead>
+                    <tbody id="vc-body">
+                        <!-- Diisi dari mikaela_schedule.json -->
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+        <section class="section" id="galeri">
+            <h2>Galeri Foto</h2>
+            <div class="gallery-section">
+                <h3>Galeri Foto Mikaela Kusjanto</h3>
+                <div class="gallery" id="gallery">
+                    <!-- Diisi dari mikaela_schedule.json -->
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <footer id="kontak">
+        <h3>Follow Cinemika</h3>
+        <div class="footer-content">
+            <div class="footer-section social-card">
+                <h4>🎬 Ikuti Cinemika</h4>
+                <div class="social-links">
+                    <a href="https://x.com/cinemikaid" target="_blank" class="social-button x">
+                        <span class="social-icon">𝕏</span>
+                        <span class="social-text">X (Twitter)</span>
+                    </a>
+                    <a href="https://instagram.com/cinemika_id" target="_blank" class="social-button instagram">
+                        <span class="social-icon"><img src="images/instagram.png" alt="Instagram" class="ig-logo-btn"></span>
+                        <span class="social-text">Instagram</span>
+                    </a>
+                    <a href="https://tiktok.com/@cinemikaid" target="_blank" class="social-button tiktok">
+                        <span class="social-icon"><img src="images/tik-tok.png" alt="TikTok" class="tk-logo-btn"></span>
+                        <span class="social-text">TikTok</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2026 Komunitas Cinemika. Dedicated to Mikaela Kusjanto (JKT48).</p>
+            <p>Official Fanbase</p>
+        </div>
+    </footer>
+    <script src="Cinemika.js"></script>
+</body>
+</html>
