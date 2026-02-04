@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cinemika</title>
-    <link rel="stylesheet" href="Cinemika.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header style="background-image: url('images/kaelaonscreenheader.jpg'); background-size: cover; background-position: center;">
@@ -111,21 +111,20 @@
                         <tr><th>Member</th><th>Tanggal</th><th>Jalur & Sesi</th><th>Waktu (WIB)</th></tr>
                     </thead>
                     <tbody id="vc-body">
-                        <!-- Diisi dari mikaela_schedule.json -->
                     </tbody>
                 </table>
             </div>
         </section>
 
         <section class="section" id="galeri">
-            <h2>Galeri Foto</h2>
-            <div class="gallery-section">
-                <h3>Galeri Foto Mikaela Kusjanto</h3>
-                <div class="gallery" id="gallery">
-                    <!-- Diisi dari mikaela_schedule.json -->
+             <h2>Galeri Foto</h2>
+                <div class="gallery-section">
+                    <h3>Galeri Foto Mikaela Kusjanto</h3>
+                    <div id="containerGaleri" class="gallery-grid">
+                    </div>
                 </div>
-            </div>
         </section>
+        </div>
     </div>
 
     <footer id="kontak">
@@ -154,6 +153,6 @@
             <p>Official Fanbase</p>
         </div>
     </footer>
-    <script src="Cinemika.js"></script>
+    <script src="script.js"></script>
 </body>
 </html>

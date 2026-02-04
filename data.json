@@ -1,0 +1,120 @@
+{
+  "jadwal_show": [
+    {
+      "tanggal": "Senin, 16.2.2026\nShow 19:00",
+      "show": "Cara Meminum Ramune",
+      "tiket_ofc": "TBA",
+      "tiket_general": "TBA",
+      "tipe": "regular"
+    },
+    {
+      "tanggal": "Minggu, 15.2.2026\nShow 16:00",
+      "show": "Pertaruhan Cinta",
+      "tiket_ofc": "TBA",
+      "tiket_general": "TBA",
+      "tipe": "regular"
+    },
+    {
+      "tanggal": "Sabtu, 14.2.2026\nShow 16:00",
+      "show": "Sambil Menggandeng Erat Tanganku",
+      "tiket_ofc": "TBA",
+      "tiket_general": "TBA",
+      "tipe": "regular"
+    },
+    {
+      "tanggal": "Jumat, 13.2.2026\nShow 19:00",
+      "show": "Pertaruhan Cinta",
+      "tiket_ofc": "TBA",
+      "tiket_general": "TBA",
+      "tipe": "regular"
+    },
+    {
+      "tanggal": "Kamis, 12.2.2026\nShow 19:00",
+      "show": "Sambil Menggandeng Erat Tanganku",
+      "tiket_ofc": "TBA",
+      "tiket_general": "TBA",
+      "tipe": "regular"
+    },
+    {
+      "tanggal": "Minggu, 8.2.2026\nShow 16:00",
+      "show": "Cara Meminum Ramune",
+      "tiket_ofc": "TBA",
+      "tiket_general": "TBA",
+      "tipe": "regular"
+    },
+    {
+      "tanggal": "Sabtu, 7.2.2026\nShow 16:00",
+      "show": "Sambil Menggandeng Erat Tanganku",
+      "tiket_ofc": "TBA",
+      "tiket_general": "TBA",
+      "tipe": "regular"
+    },
+    {
+      "tanggal": "Jumat, 6.2.2026\nShow 19:00",
+      "show": "Cara Meminum Ramune",
+      "tiket_ofc": "TBA",
+      "tiket_general": "TBA",
+      "tipe": "regular"
+    },
+    {
+      "tanggal": "Kamis, 5.2.2026\nShow 19:00",
+      "show": "Pertaruhan Cinta",
+      "tiket_ofc": "TBA",
+      "tiket_general": "TBA",
+      "tipe": "regular"
+    }
+  ],
+  "video_call": [
+    {
+      "member": "Mikaela Kusjanto",
+      "tanggal": "Minggu, 8.2.2026",
+      "jalur_sesi": "Sesi 4 (Jalur 4)",
+      "waktu": "16:15 - 17:30 WIB"
+    },
+    {
+      "member": "Mikaela Kusjanto",
+      "tanggal": "Minggu, 8.2.2026",
+      "jalur_sesi": "Sesi 5 (Jalur 4)",
+      "waktu": "17:45 - 19:00 WIB"
+    },
+    {
+      "member": "Mikaela Kusjanto",
+      "tanggal": "Minggu, 8.2.2026",
+      "jalur_sesi": "Sesi 6 (Jalur 4)",
+      "waktu": "19:15 - 20:30 WIB"
+    },
+    {
+      "member": "Mikaela Kusjanto",
+      "tanggal": "Rabu, 25.2.2026",
+      "jalur_sesi": "Sesi 1 (Jalur 2)",
+      "waktu": "15:15 - 16:15 WIB"
+    },
+    {
+      "member": "Mikaela Kusjanto",
+      "tanggal": "Rabu, 25.2.2026",
+      "jalur_sesi": "Sesi 2 (Jalur 2)",
+      "waktu": "16:45 - 17:45 WIB"
+    },
+    {
+      "member": "Mikaela Kusjanto",
+      "tanggal": "Rabu, 25.2.2026",
+      "jalur_sesi": "Sesi 3 (Jalur 2)",
+      "waktu": "19:00 - 20:00 WIB"
+    }
+  ],
+  "event_jkt48": [],
+  "galeri_foto": [
+    {
+      "url": "images/mikaela1.jpg",
+      "caption": "Mikaela Instagram"
+    },
+    {
+      "url": "images/mikaela2.jpg",
+      "caption": "Mikaela Instagram"
+    },
+    {
+      "url": "images/mikaela3.jpg",
+      "caption": "Mikaela X"
+    }
+  ]
+}
