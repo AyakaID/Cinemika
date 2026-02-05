@@ -1,69 +1,6 @@
 {
   "jadwal_show": [
     {
-      "tanggal": "Senin,\n16.2.2026\nShow 19:00\nPenukaran tiket 18:00",
-      "show": "Cara Meminum Ramune",
-      "tiket_ofc": "TBA",
-      "tiket_general": "TBA",
-      "tipe": "regular"
-    },
-    {
-      "tanggal": "Minggu,\n15.2.2026\nShow 16:00\nPenukaran tiket 15:00",
-      "show": "Pertaruhan Cinta",
-      "tiket_ofc": "TBA",
-      "tiket_general": "TBA",
-      "tipe": "regular"
-    },
-    {
-      "tanggal": "Sabtu,\n14.2.2026\nShow 16:00\nPenukaran tiket 15:00",
-      "show": "Sambil Menggandeng Erat Tanganku",
-      "tiket_ofc": "TBA",
-      "tiket_general": "TBA",
-      "tipe": "regular"
-    },
-    {
-      "tanggal": "Jumat,\n13.2.2026\nShow 19:00\nPenukaran tiket 18:00",
-      "show": "Pertaruhan Cinta",
-      "tiket_ofc": "TBA",
-      "tiket_general": "TBA",
-      "tipe": "regular"
-    },
-    {
-      "tanggal": "Kamis,\n12.2.2026\nShow 19:00\nPenukaran tiket 18:00",
-      "show": "Sambil Menggandeng Erat Tanganku",
-      "tiket_ofc": "TBA",
-      "tiket_general": "TBA",
-      "tipe": "regular"
-    },
-    {
-      "tanggal": "Minggu,\n8.2.2026\nShow 16:00\nPenukaran tiket 15:00",
-      "show": "Cara Meminum Ramune",
-      "tiket_ofc": "TBA",
-      "tiket_general": "TBA",
-      "tipe": "regular"
-    },
-    {
-      "tanggal": "Sabtu,\n7.2.2026\nShow 16:00\nPenukaran tiket 15:00",
-      "show": "Sambil Menggandeng Erat Tanganku",
-      "tiket_ofc": "TBA",
-      "tiket_general": "TBA",
-      "tipe": "regular"
-    },
-    {
-      "tanggal": "Jumat,\n6.2.2026\nShow 19:00\nPenukaran tiket 18:00",
-      "show": "Cara Meminum Ramune",
-      "tiket_ofc": "TBA",
-      "tiket_general": "TBA",
-      "tipe": "regular"
-    },
-    {
-      "tanggal": "Kamis,\n5.2.2026\nShow 19:00\nPenukaran tiket 18:00",
-      "show": "Pertaruhan Cinta",
-      "tiket_ofc": "TBA",
-      "tiket_general": "TBA",
-      "tipe": "regular"
-    },
-    {
       "tanggal": "Senin, 16.2.2026\nShow 19:00",
       "show": "Cara Meminum Ramune",
       "tiket_ofc": "TBA",
